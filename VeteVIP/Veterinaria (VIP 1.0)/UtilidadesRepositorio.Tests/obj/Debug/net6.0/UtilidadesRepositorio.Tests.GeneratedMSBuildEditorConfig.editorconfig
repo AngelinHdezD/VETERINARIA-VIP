@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UtilidadesRepositorio.Tests
+build_property.ProjectDir = D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\UtilidadesRepositorio.Tests\

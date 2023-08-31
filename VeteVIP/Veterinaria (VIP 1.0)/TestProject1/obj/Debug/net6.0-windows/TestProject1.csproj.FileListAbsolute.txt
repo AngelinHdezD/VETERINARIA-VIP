@@ -1,0 +1,222 @@
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.engine.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.engine.api.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.engine.core.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.exe
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.deps.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.runtimeconfig.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.csproj.CopyComplete
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\refint\TestProject1.dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\ref\TestProject1.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\testhost.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\testhost.exe
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.exe
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.deps.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.runtimeconfig.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\TestProject1.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Datos.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Datos.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\bin\Debug\net6.0-windows\Negocio.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.csproj.AssemblyReference.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.AssemblyInfoInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.AssemblyInfo.cs
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.csproj.CoreCompileInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.csproj.CopyComplete
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\refint\TestProject1.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\TestProject1.genruntimeconfig.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\TestProject1\obj\Debug\net6.0-windows\ref\TestProject1.dll

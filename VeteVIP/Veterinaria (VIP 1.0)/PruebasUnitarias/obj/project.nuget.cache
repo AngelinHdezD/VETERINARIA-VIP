@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSjaxdD1msxPO2U98kIf6bJZVV0EQJQAI5ITvK6MJmfbTrs7eKVy2tu/YIGP/IPf5A9uBSLxZ1MkGN8lGVVwWg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Veterinaria (VIP 1.0)\\PruebasUnitarias\\PruebasUnitarias.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Veterinaria (VIP 1.0) no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El proyecto Veterinaria (VIP 1.0) admite: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Veterinaria (VIP 1.0)",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

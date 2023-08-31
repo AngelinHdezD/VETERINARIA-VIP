@@ -1,0 +1,139 @@
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.InicioDeSesion.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaPrincipal.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.RegistroDeUsuario.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ResgistroDeMascota.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfo.cs
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\refint\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).genruntimeconfig.cache
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\ref\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.Properties.Resources.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaVentas.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaUsuario.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaMascota.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioEstetico.resources
+C:\Users\Dell\source\repos\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioVeterinario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Datos.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Negocio.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Datos.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.AssemblyReference.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.InicioDeSesion.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaMascota.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaPrincipal.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaUsuario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaVentas.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.Properties.Resources.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.RegistroDeUsuario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ResgistroDeMascota.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioEstetico.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioVeterinario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.GenerateResource.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfoInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfo.cs
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CoreCompileInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CopyComplete
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\refint\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).genruntimeconfig.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\ref\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.InicioDeSesion.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaMascota.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaPrincipal.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaUsuario.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaVentas.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.RegistroDeUsuario.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ResgistroDeMascota.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioEstetico.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioVeterinario.resources
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\refint\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\ref\Veterinaria (VIP 1.0).dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ForoVIP.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).exe
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).deps.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).runtimeconfig.json
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Datos.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Negocio.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\bin\Debug\net6.0-windows\Datos.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.AssemblyReference.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ForoVIP.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.InicioDeSesion.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaMascota.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaPrincipal.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaUsuario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.PaginaVentas.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.Properties.Resources.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.RegistroDeUsuario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ResgistroDeMascota.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioEstetico.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria__VIP_1._0_.ServicioVeterinario.resources
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.GenerateResource.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfoInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).AssemblyInfo.cs
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CoreCompileInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).csproj.CopyComplete
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\refint\Veterinaria (VIP 1.0).dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\Veterinaria (VIP 1.0).genruntimeconfig.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Veterinaria (VIP 1.0)\obj\Debug\net6.0-windows\ref\Veterinaria (VIP 1.0).dll

@@ -1,0 +1,27 @@
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Negocio.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Datos.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Datos.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\Veterinaria (VIP 3.0)\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Datos.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Datos.pdb
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Dell\OneDrive\Desktop\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Negocio.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Datos.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\bin\Debug\Datos.pdb
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.dll
+D:\Documentos\Personal\Skul\Universidad\ITD\Semestre 6\Ingeniería de Software\Proyecto\Programa\VeteVIP\Veterinaria (VIP 1.0)\Negocio\obj\Debug\Negocio.pdb
